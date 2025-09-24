@@ -1,6 +1,7 @@
 const renderGifts = async () => {
     
   const response = await fetch('/gifts')
+  console.log('rendering the home')
   const data = await response.json()
 
   const mainContent = document.getElementById('main-content')
@@ -50,4 +51,10 @@ const renderGifts = async () => {
   }
 }
 
-renderGifts()
+const requestedUrl = window.location.href.split('/').pop()
+if (!requestedUrl) {
+  renderGifts();
+}
+else {
+  window.location.href = '../404.html'
+}

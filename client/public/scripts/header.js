@@ -11,7 +11,7 @@ headerLeft.className = 'header-left';
 
 // 4. Create the logo image element (this part was missing from the instructions)
 const headerLogo = document.createElement('img');
-headerLogo.src = 'logo.png';
+headerLogo.src = '../logo.png';
 headerLogo.alt = 'UnEarthed Logo'; // Added alt text for accessibility
 
 // 5. Create the h1 title element
