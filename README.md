@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/0fb12531487d48cab27dc5cfcb420d67' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://www.loom.com/share/0fb12531487d48cab27dc5cfcb420d67 
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Add GIF tool here
