@@ -1,6 +1,7 @@
 import express from 'express'
 import path from 'path'
 import giftData from '../data/gifts.js'
+import GiftController from '../controller/gifts.js'
 
 import { fileURLToPath } from 'url'
 
@@ -11,7 +12,7 @@ const router = express.Router()
 
 
 router.get('/', (req, res) => {
-    res.status(200).json(giftData)
+    res.status(200).json(GiftController.getGifts())
 })
 
 router.get('/:giftId', (req, res) => {
