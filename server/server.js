@@ -1,13 +1,15 @@
+import './config/dotenv.js'
 import express from 'express'
 import giftsRouter from './routes/gifts.js'
-import dotenv from './configuration/dotenv.js'
+
 
 const app = express()
 
+//middleare
 app.use('/public', express.static('./public'))
 app.use('/gifts', giftsRouter)
 
-
+//routes
 app.use('/scripts', express.static('./public/scripts'))
 
 app.get('/', (req, res) => {
