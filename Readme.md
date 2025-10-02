@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img width="1026" height="237" alt="Screenshot 2025-10-02 at 5 12 02 PM" src="https://github.com/user-attachments/assets/8949f196-9b63-48de-89fe-fe1718c24a74" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
