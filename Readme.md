@@ -21,7 +21,8 @@ The following **optional** features are implemented:
 
 - [ ] The user can search for items by a specific attribute
 
-The following **additional** features are implemented:
+The following **additional** features are implemented:<img width="1440" height="900" alt="Screenshot 2025-10-03 at 5 59 01 AM" src="https://github.com/user-attachments/assets/a656c926-7984-4563-ab24-375f2d73a8bc" />
+
 
 - [ ] List anything else that you added to improve the site's functionality!
 
@@ -29,8 +30,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img width="1026" height="237" alt="Screenshot 2025-10-02 at 5 12 02 PM" src="https://github.com/user-attachments/assets/8949f196-9b63-48de-89fe-fe1718c24a74" />
+<img width="1087" height="542" alt="Screenshot 2025-10-03 at 5 58 17 AM" src="https://github.com/user-attachments/assets/ff14e321-43c7-440f-b094-8bbe258cd8be" />
+
+<img width="1440" height="900" alt="Screenshot 2025-10-03 at 5 59 20 AM" src="https://github.com/user-attachments/assets/4f1c59a3-c660-4416-8f7e-7a1f85b22707" />
+
+https://www.loom.com/share/0e6a6f26089647f7b4822c16a5b0ae23?sid=b200da04-1d0c-4145-a531-4a8ee04acbb6 
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
