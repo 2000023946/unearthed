@@ -17,9 +17,15 @@ const router = express.Router()
 
 router.get('/', GiftController.getGifts)
 
+router.get('/id/:giftId', GiftController.getGiftById)
+
+router.get('/name/:giftName', GiftController.getGiftByName)
+
+
 
 router.get('/:giftId', (req, res) => {
     res.status(200).sendFile(path.resolve(__dirname, '../public/gift.html'))
 })
+
 
 export default router

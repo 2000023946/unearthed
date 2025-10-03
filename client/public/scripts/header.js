@@ -43,3 +43,5 @@ headerContainer.appendChild(headerRight);
 
 // 11. Finally, append the main container to the <header> element in the document
 header.appendChild(headerContainer);
+
+
